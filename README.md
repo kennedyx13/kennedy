@@ -51,11 +51,13 @@ Ticker:       |  JFK    |
 Algorithm:       |  x13    |
 Reward Type:       |  Hybrid > 300000 / POS    | 
 Block Spacing POW:       |  6 minutes    | 
-Mining Confirmations:       |  15    | 
+Mining Confirmations:       |  15    |
+POW Possibiliity:       |  Approx 3 years    |
 RPC:       |  8744    | 
 P2P:       |  8743    |
 POW Reward:       |  100 - 180    | 
 POS Reward:       |  33%    | 
+Money in 3 years:       |  Approx 44 million    |      |
 Minimum Staking:       |  1 minute    | 
 Maximum:       |  Unlimited    |      |
 
@@ -64,8 +66,9 @@ Maximum:       |  Unlimited    |      |
 
 
 
+
 Explorer and Web 
--------------
+=======================
 
 [Explorer](http://explorer.j-f-k.info:3001)
 
