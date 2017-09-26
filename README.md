@@ -1,4 +1,4 @@
-
+-----
 
 
 **Kennedy**
@@ -24,7 +24,7 @@
 
 
 
-*Nicole is a daring new cryptocurrency based on Proof-of-Stake with an initial 10,000 hybrid blocks.*
+*Kennedy is the latest cryptocurrency based on historical world leaders that had an impact on the shape of the world today. Kennedy is a hybrid x13 with more than 300,000 hybrid blocks before it becomes full PoS..*
 
 
 -----
@@ -61,7 +61,8 @@ Maximum:       |  Unlimited    |      |
 
 
 
-------
+
+
 
 Explorer and Web 
 -------------
