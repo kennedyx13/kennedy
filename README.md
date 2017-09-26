@@ -39,7 +39,7 @@ Wallet
 
 -----
 
-Nicole Specifications
+Kennedy Specifications
 =======================
 
 
