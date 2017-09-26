@@ -963,7 +963,7 @@ uint256 WantedByOrphan(const CBlock* pblockOrphan)
     return pblockOrphan->hashPrevBlock;
 }
 
-// miner's coin base reward approx 47 million POW limit
+// miner's coin base reward approx 47 million POW limit / Around 3 years POW mining potential
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
 
@@ -971,7 +971,7 @@ int64_t GetProofOfWorkReward(int64_t nFees)
        
     if(pindexBest->nHeight+1 == 1)
         {
-            nSubsidy = 3000000 * COIN; // premine 7 or 8 %
+            nSubsidy = 3000000 * COIN; // premine 6.9 % based on 100% POW mined blocks
         }
             else if(pindexBest->nHeight+1 >= 2 && pindexBest->nHeight+1 <= 99)
         {
