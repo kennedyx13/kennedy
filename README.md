@@ -67,7 +67,8 @@ Maximum:       |  Unlimited    |      |
 Reward POW in detail
 -------------
 
-}
+
+        }
             else if(pindexBest->nHeight+1 >= 2 && pindexBest->nHeight+1 <= 99)
         {
             nSubsidy = 10 * COIN;
