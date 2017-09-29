@@ -148,11 +148,17 @@ Kennedy.conf
 --------------------
 
 > rpcuser=Kennedyrpc
+
 > rpcpassword=SomethingLongWithDifferentCharacters
+
 > rpcallowip=127.0.0.1
+
 > daemon=1
+
 > server=1
+
 > rpcport=8744
+
 
 -----
 
