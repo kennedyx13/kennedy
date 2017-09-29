@@ -31,7 +31,7 @@
 
 
 
-Wallet Downloat at Bitbucket 
+Wallet Download at Bitbucket 
 =======================
 
 
@@ -49,7 +49,7 @@ Item        |  Spec     |
 Coin:         |  Kennedy    |  
 Ticker:       |  JFK    | 
 Algorithm:       |  x13    |
-Reward Type:       |  Hybrid > 300000 / POS    | 
+Reward Type:       |  Hybrid > 300100 / POS    | 
 Block Spacing POW:       |  3 minutes    | 
 Mining Confirmations:       |  15    |
 POW Possibiliity:       |  Approx 2 years    |
@@ -68,51 +68,18 @@ Reward POW in detail
 -------------
 
 
-        }
-            else if(pindexBest->nHeight+1 >= 2 && pindexBest->nHeight+1 <= 99)
-        {
-            nSubsidy = 10 * COIN;
-        }
-            else if(pindexBest->nHeight+1 >= 100 && pindexBest->nHeight+1 <= 30100)
-        {
-            nSubsidy = 150 * COIN;
-        }
-            else if(pindexBest->nHeight+1 >= 30101 && pindexBest->nHeight+1 <= 60101)
-        {
-            nSubsidy = 170 * COIN;
-        }
-            else if(pindexBest->nHeight+1 >= 60102 && pindexBest->nHeight+1 <= 90102)
-        {
-            nSubsidy = 180 * COIN;
-        }
-            else if(pindexBest->nHeight+1 >= 90103 && pindexBest->nHeight+1 <= 120103)
-        {
-            nSubsidy = 170 * COIN;
-        }
-            else if(pindexBest->nHeight+1 >= 120104 && pindexBest->nHeight+1 <= 150104)
-        {
-            nSubsidy = 160 * COIN;
-        }
-            else if(pindexBest->nHeight+1 >= 150105 && pindexBest->nHeight+1 <= 180105)
-        {
-            nSubsidy = 150 * COIN;
-        }
-            else if(pindexBest->nHeight+1 >= 180106 && pindexBest->nHeight+1 <= 210106)
-        {
-            nSubsidy = 140 * COIN;
-        }
-           else if(pindexBest->nHeight+1 >= 210107 && pindexBest->nHeight+1 <= 240107)
-        {
-            nSubsidy = 130 * COIN;
-        }
-           else if(pindexBest->nHeight+1 >= 240108 && pindexBest->nHeight+1 <= 270108)
-        {
-           nSubsidy = 120 * COIN;
-        }
-           else if(pindexBest->nHeight+1 >= 270109 && pindexBest->nHeight+1 <= 300109)
-        {
-           nSubsidy = 100 * COIN;
-        }
+        nSubsidy =  10 * COIN     <= 99)
+        nSubsidy = 150 * COIN  <= 30100)
+        nSubsidy = 170 * COIN  <= 60101)
+        nSubsidy = 180 * COIN  <= 90102)
+        nSubsidy = 170 * COIN <= 120103)
+        nSubsidy = 160 * COIN <= 150104)
+        nSubsidy = 150 * COIN <= 180105)
+        nSubsidy = 140 * COIN <= 210106)
+        nSubsidy = 130 * COIN <= 240107)
+        nSubsidy = 120 * COIN <= 270108)
+        nSubsidy = 100 * COIN <= 300109)
+         
 
 
 -----
