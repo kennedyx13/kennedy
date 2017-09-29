@@ -177,3 +177,17 @@ Compiling Kennedy: QT4 Dependencies
 
 ----
 
+Genesis and tx Hash
+--------------------
+
+> **Genesis**
+
+> 000005db2602324bf5dfa8076a725cee725730b48c1012cae8ec669213df3087
+
+
+> **tx Hash**
+
+> f088c122bd9464a46a3ff518e225e622b0472c875daa5eb818f8337ce1ca7050
+
+
+-----
