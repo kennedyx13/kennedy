@@ -49,15 +49,15 @@ Item        |  Spec     |
 Coin:         |  Kennedy    |  
 Ticker:       |  JFK    | 
 Algorithm:       |  x13    |
-Reward Type:       |  Hybrid > 300100 / POS    | 
+Reward Type:       |  Hybrid > 300100 / POS always operating    | 
 Block Spacing POW:       |  3 minutes    | 
 Mining Confirmations:       |  15    |
-POW Possibiliity:       |  Approx 2 years    |
+POW Possibiliity:       |  Approx 625 days    |
 RPC:       |  8744    | 
 P2P:       |  8743    |
 POW Reward:       |  100 - 180    | 
 POS Reward:       |  33%    | 
-Money in 3 years:       |  Approx 44 million    |      |
+Money in 625 days:       |  Approx 31 million (ratio: 70% POW / 30% POS)    |      |
 Minimum Staking:       |  1 minute    | 
 Maximum:       |  Unlimited    |      |
 
