@@ -87,7 +87,7 @@ Reward POW in detail
 Explorer and Web 
 =======================
 
-[Explorer](http://explorer.j-f-k.info:3001)
+[Explorer](http://45.76.133.13:3001/)
 
 [Web](http://j-f-k.info)
 
