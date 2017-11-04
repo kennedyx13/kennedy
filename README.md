@@ -139,9 +139,9 @@ Compiling Kennedy: QT4 Dependencies
 
 
 
-    $ git clone https://yalta1945@bitbucket.org/yalta1945/john.git 
+    $ git clone https://github.com/kennedyx13/kennedy.git 
     $ sudo apt-get update
-    $ cd john/src
+    $ cd kennedy/src
     $ make -f makefile.unix USE_UPNP=1
     $ strip Kennedyd
     $ ./Kennedyd
