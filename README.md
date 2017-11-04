@@ -15,24 +15,6 @@
 -----
 
 
-<ul>
-<li><a href="#kennedy">Kennedy</a></li>
-<li><a href="#wallet-download-at-bitbucket">Wallet Download at Bitbucket </a></li>
-<li><a href="#kennedy-specifications">Kennedy Specifications</a><ul>
-<li><a href="#reward-pow-in-detail">Reward POW in detail</a></li>
-</ul>
-</li>
-<li><a href="#explorer-and-web">Explorer and Web </a><ul>
-<li><a href="#wallet-bkg">Wallet bkg</a></li>
-<li><a href="#kennedyconf">Kennedy.conf</a></li>
-<li><a href="#compiling-kennedy-qt4-dependencies">Compiling Kennedy: QT4 Dependencies</a></li>
-<li><a href="#genesis-and-tx-hash">Genesis and tx Hash</a></li>
-</ul>
-</li>
-</ul>
-
-
------
 
 
 
