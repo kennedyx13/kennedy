@@ -31,11 +31,11 @@
 
 
 
-Wallet Download at Bitbucket 
+Wallet Download at Github 
 =======================
 
 
-[Kennedy-qt](https://bitbucket.org/yalta1945/kennedy-qt/downloads/Kennedy-qt.zip)
+[Kennedy-qt](https://github.com/kennedyx13/Kennedy-qt)
 
 -----
 
